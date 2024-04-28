@@ -14,6 +14,11 @@ A pipeline configuration has three required sections.
 - `stages`
 - at least one `stage` and at least one `step`
 
+## Agents
+![alt text](pipeline-agent.png)
+![alt text](pipeline-agent-2.png)
+![alt text](pipeline-agent-3.png)
+
 ## A multi-stage pipeline
 Create a pipeline job and paste in the following code to create a multi-stage pipeline.
 
