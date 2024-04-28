@@ -12,6 +12,8 @@ This lesson will focus on environment variables and current build variables. We'
 # Environment variables
 Environment variables can be set globally for an entire pipeline. Or they can be set locally in a stage.
 
+![alt text](Globle_and_local.png)
+
 # currentBuild variables
 "currentBuild" variables (the name is case sensitive) allow pipeline steps to reference the state of a build while its running.
 
